@@ -1,0 +1,194 @@
+/* @media all and (max-width: 952px) {
+    Navigation Bar
+    .header-left {
+        font-size: 30px;
+        padding-left: 10px;
+    }
+
+    .header-right {
+        font-size: 16px;
+        display: none;
+    }
+} */
+
+@media all and (max-width: 858px) {
+    /* Navigation Bar */
+    /* .check-btn {
+        display: block;
+        float: right;
+    }
+
+    .listresp {
+        position: fixed;
+        width: 100%;
+        height: 100vh;
+        background: rgb(50, 50, 192);
+        top: 80px;
+        left: -100%;
+        text-align: center;
+        transition: all .5s;
+    }
+
+    .header-right ul li {
+        display: block;
+        margin: 50px 0;
+        line-height: 30px;
+    }
+
+    .header-right .listresp .list a {
+        font-size: 20px;
+    }
+
+    .list a:hover,
+    .list a.active {
+        background: none;
+        color: #3F817B;
+    }
+
+    #check:checked~.listresp {
+        left: 0;
+    } */
+
+
+    /* #check:checked ~ .listresp{
+        left: 0;
+    } */
+    .container{
+        padding: 0 30px;
+    }
+    .logo{
+        padding-top: 7px;
+        font-size: 30px;
+    }
+
+    .header-right{
+        padding-top: 2px;
+    }
+
+    .list a{
+        font-size: 18px;
+        padding-right: 1px;
+        /* margin-right:18px; */
+    }
+    /* Banner */
+    .banner {
+        padding-top: 7%;
+    }
+    
+    /* Footer */
+    .footerboxes{
+        padding-bottom: 5%;
+    }
+
+    /* Product */
+    .product-section{
+        padding-top: 7%;
+    }
+
+    /* Promotion */
+    .promotion-section{
+        padding-top: 16%;
+    }
+
+    .promotion-title{
+       padding-left: 10%;
+       padding-right: 10%;
+       font-size: 28px;
+    }
+
+    .promotion-images2{
+        width: 60%;
+    }
+
+    .promotion-product-button{
+        padding-top: 10px;
+        width: 60%;
+        font-size: 15px;
+    }
+
+    .promotion-product{
+        width: 60%;
+    }
+
+    /* About us */
+    .aboutus{
+        padding-top: 10%;
+    }
+
+    /* Subscribe */
+    .form{
+        padding-top: 18%;
+        padding-bottom: 6%;
+    }
+    
+    #name-uti{
+        font-size: 18px;
+    }
+
+    #address-uti{
+        font-size: 18px;
+    }
+
+    #phonenum-uti{
+        font-size: 18px;
+    }
+
+    #email-uti{
+        font-size: 18px;
+    }
+
+    #password-uti{
+        font-size: 18px;
+    }
+
+     #password-uti{
+        font-size: 18px;
+    }
+    #passwordc-uti {
+        font-size: 18px;
+    }
+    .subscribe-product{
+        font-size: 18px;
+    }
+    
+    /* Shipping */
+    .termsofuser{
+        padding-top: 14%;
+        padding-bottom: 6%;
+    }
+
+    /* Terms and Conditions */
+    .termsofuser-new{
+        padding-top: 10%;
+        padding-bottom: 5%;
+    }
+
+    /* Privacy Policy */
+    .privacypolicy{
+        padding-top: 10%;
+        padding-bottom: 3%;
+    }
+
+    /* Payment */
+    .payment-image{
+        padding-top: 27%;
+        padding-bottom: 16%;
+    }
+
+    .payment {
+        width: 70%;
+    }
+
+    /* How to order */
+    .termsofuser-new11{
+        padding-top: 9%;
+    }
+
+    .termsofuser-new111{
+        padding-top: 9%;
+    }
+
+    .termsofuser-new311{
+        padding-bottom: 11%;
+    }
+}

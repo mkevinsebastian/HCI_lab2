@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VOrskins</title>
+    <link rel="stylesheet" href="stylesheet.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,500&family=Sansita+Swashed:wght@600&display=swap"
+        rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="container" style="background-color: #3f817b">
+        <div class="header-left">
+            <li href="#" class="logo">VOrskins</li>
+        </div>
+        <div class="header-right">
+            <li class="list" id="cart"><a href="#home-header">Cart</a></li>
+            <li class="list"><a href="#event-section">Register</a></li>
+            <li class="list"><a href="#about-us">Status</a></li>
+            <li class="list"><a href="#aboutus">About Us</a></li>
+            <li class="list"><a href="#contact-us">Contact Us</a></li>
+        </div>
+    </header>
+    <div>
+        <img src="banner1.png" class="banner">
+    </div>
+    <div class="product-section" id="product-section">
+        <div class="product-title">
+            <p>Products</p>
+        </div>
+        <div class="product-list">
+            <div class="product1">
+                <div div class="product-image1">
+                    <img src="https://drive.google.com/uc?export=view&id=1HKvJZjBITRMlrYOxGPDIv_Cw83ZC1iVH" alt="">
+                </div>
+                <div class="product-detail">
+                    <p class="product-titlesub">IDR 110.000</p>
+                    <div class="pdesc">
+                        <p>VOrskins Face Wash - 100 ml</p>
+                        <p class="ptitle">
+                            Cleanse and brighten your face without drying your skin,
+                            PH balanced,
+                            For all skin types</p>
+                    </div>
+                    <button type="button" class="product-button">ADD TO CART >></button>
+                </div>
+            </div>
+            <div class="product2">
+                <div div class="product-image2">
+                    <img src="https://drive.google.com/uc?export=view&id=1NoejNftl-PuEuKMkjyK1VPZXsSWJVwNx" alt="">
+                </div>
+                <div class="product-detail">
+                    <p class="product-titlesub">IDR 150.000</p>
+                    <div class="pdesc">
+                        <p>VOrskins Toner - 100 ml</p>
+                        <p class="ptitle">VOrskins Toner - 100 ml
+                            Refresh your face,
+                            Giving matte effect,
+                            PH balanced,
+                            For all skin types</p>
+                    </div>
+                    <button type="button" class="product-button">ADD TO CART >></button>
+                </div>
+            </div>
+            <div class="product3">
+                <div div class="product-image3">
+                    <img src="https://drive.google.com/uc?export=view&id=1odQCwsUf6w3MWogtBN17jdGEYhPrsFh3" alt="">
+                </div>
+                <div class="product-detail">
+                    <p class="product-titlesub">IDR 185.000</p>
+                    <div class="pdesc">
+                        <p>VOrskins Serum - 30 ml</p>
+                        <p class="ptitle">
+                            Nourish and reduce skin blemishes, Calming redness, PH balanced, For all skin types</p>
+                    </div>
+                    <button type="button" class="product-button">ADD TO CART >></button>
+                </div>
+            </div>
+            <div class="product4">
+                <div div class="product-image4">
+                    <img src="https://drive.google.com/uc?export=view&id=1TUoFImA2AHGJK6AG1Xy0f9TV3h93zESk" alt="">
+                </div>
+                <div class="product-detail">
+                    <p class="product-titlesub">IDR 130.000</p>
+                    <div class="pdesc">
+                        <p>VOrskins Moisturizer - 30 g</p>
+                        <p class="ptitle">
+                            Moisturizing, calming and strengthen skin barrier, PH balanced For all skin types</p>
+                    </div>
+                    <button type="button" class="product-button">ADD TO CART >></button>
+                </div>
+            </div>
+            <div class="product5">
+                <div div class="product-image5">
+                    <img src="https://drive.google.com/uc?export=view&id=1vuiV_v2oREmiXHvoGgEdPAyu_DPSPec3" alt="">
+                </div>
+                <div class="product-detail">
+                    <p class="product-titlesub">IDR 80.000</p>
+                    <div class="pdesc">
+                        <p>VOrskins Lipbalm - 10 g</p>
+                        <p class="ptitle">
+                            Moisturizing and fixing, cracked lips, maintain your healthy lips, transparent colour</p>
+                    </div>
+                    <button type="button" class="product-button">ADD TO CART >></button>
+                </div>
+            </div>
+		<div class="product6">
+                <div div class="product-image6">
+                    <img src="https://drive.google.com/uc?export=view&id=1MKLYY5EtbYj9e4XZbAzQQKLJ_PgvR-8S" alt="">
+                </div>
+                <div class="product-detail">
+                    <p class="product-titlesub">IDR 95.000</p>
+                    <div class="pdesc">
+                        <p>VOrskins Body Wash - 120 ml</p>
+                        <p class="ptitle">
+                            Moistrurizing, refreshing and exfoliating smoothly to remove dead skin cells</p>
+                    </div>
+                    <button type="button" class="product-button">ADD TO CART >></button>
+                </div>
+            </div>
+		<div class="product7">
+                <div div class="product-image7">
+                    <img src="https://drive.google.com/uc?export=view&id=179dzABI7WSavAa-lCzTAx83M1nsq7CNM" alt="">
+                </div>
+                <div class="product-detail">
+                    <p class="product-titlesub">IDR 120.000</p>
+                    <div class="pdesc">
+                        <p>VOrskins Body Lotion - 100 ml</p>
+                        <p class="ptitle">
+                            Moisturizing, brightening and protect your skin from sun with SPF 50++</p>
+                    </div>
+                    <button type="button" class="product-button">ADD TO CART >></button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="aboutus" id="aboutus">
+        <h2>About Us</h2>
+        <h3>History</h3>
+        <p>VOrskins is a local brand from Indonesia that was build in early 2020 to help the Indonesian society to have such
+            a healthy and glowing skin. The ingredients that we use is made from natural ingredients so that it is really
+            safe for all skin types even the sensitive one. We started from making Fase Wash and Moisturizer in early 2020’s
+            and now we are having various care products including body care and face care.</p>
+    
+        <h3>Vision</h3>
+        <p>Helping Indonesian to reach healthy and glowing skin through our products</p>
+    
+        <h3>Mission</h3>
+        <p>Creating body care and skincare from natural ingredients and safe for everyone to use and worry free.</p><br>
+    </div>
+<div class="footerboxes">
+  <div class="footerbox">
+    <h4>VOrskins</h4><br>
+    <p>For Your Ultimate Skin</p>
+  </div>
+  <div class="footerbox">
+    <h4>Customer Assistance</h4>
+    <ul>
+      <li>How To Order</li>
+      <li>Shipping</li>
+      <li>Payment</li>
+      <li>FAQ</li>
+    </ul>
+  </div>
+  <div class="footerbox">
+    <h4>Your Daily Skincare</h4>
+    <ul>
+      <li>Terms and Conditions</li>
+      <li>Privacy Policy</li>
+    </ul>
+  </div>
+  <div class="socialmedia">
+    <h4>Social Media</h4>
+    <ul>
+      <li><img src="https://drive.google.com/uc?export=view&id=1i8p1iVcotZhknwqaxMp8u3HF4ZSTw4gn" alt=image1 width=3%></li>
+      <li><img src="https://drive.google.com/uc?export=view&id=1i7iLDaVOb9_S51inIqFNOf5ZmTq0kvyx" alt=image2 width=3%></li>
+      <li><img src="https://drive.google.com/uc?export=view&id=1hiuVnnVRvMBLcsi5wVcf2btF_cTrU_JR" alt=image3 width=3%></li>
+    </ul>
+  </div>
+</div>
+</body>
+</html>
